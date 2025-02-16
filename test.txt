@@ -1,0 +1,6 @@
+For data science theory in Python, the key packages to understand are:
+NumPy for foundational scientific computing, Pandas for data manipulation,
+ Matplotlib for basic data visualization, Seaborn for enhanced statistical visualizations,
+ SciPy for advanced scientific computations,
+ Scikit-learn for machine learning algorithms,
+ and NLTK for natural language processing.
